@@ -1,2 +1,3 @@
 Este es un documento de texto, con nombre libro.
-A ver si puedo hacer todo bien, viendo la clase, porque lo que me esta costando esta terrible pavada.
+Modifico una linea para que aparezca modificada.	
+Vuelvo a modificar el archivo a ver que onda.
